@@ -1,0 +1,5 @@
+dataset=tcga_brca fold=1 seed=42 test_auc=0.917763 test_acc=87.3950 test_f1=0.7700
+dataset=tcga_brca fold=2 seed=42 test_auc=0.914145 test_acc=86.5546 test_f1=0.7844
+dataset=tcga_brca fold=3 seed=42 test_auc=0.848904 test_acc=85.2941 test_f1=0.7539
+dataset=tcga_brca fold=4 seed=42 test_auc=0.876425 test_acc=85.7143 test_f1=0.7218
+dataset=tcga_brca fold=5 seed=42 test_auc=0.860581 test_acc=87.3950 test_f1=0.7700

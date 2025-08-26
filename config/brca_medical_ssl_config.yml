@@ -1,0 +1,21 @@
+# Training
+train_epoch: 100
+warmup_epoch: 0
+wd: 0.00001
+lr: 0.0001
+min_lr: 0
+
+# Dataset
+dataset: tcga_brca
+B: 1
+n_class: 2                               # Binary: e.g., tumor vs normal
+data_dir: '/scratch/brca/patches'      # Replace with your .pt or .h5 folder
+n_worker: 8
+pin_memory: False
+n_shot: -1
+
+# Backbone
+backbone: 'ViT-S_16'
+pretrain: 'medical_ssl'
+D_feat: 384
+D_inner: 128

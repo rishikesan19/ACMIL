@@ -1,0 +1,19 @@
+# Processed data directories
+processed_bracs_10/
+processed_bracs_10_filtered/
+processed_bracs_20/
+processed_camelyon_20/
+processed_tcga_brca/
+processed_tcga_brca_20/
+
+# Logging and experiment tracking
+wandb/
+
+# Python cache
+__pycache__/
+
+# Model checkpoints
+checkpoints/
+
+#virtual environment
+mil/

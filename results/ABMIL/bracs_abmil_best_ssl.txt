@@ -1,0 +1,6 @@
+dataset=bracs fold=NA seed=0 test_auc=0.845904 test_acc=69.7674 test_f1=0.6323
+dataset=bracs fold=NA seed=1 test_auc=0.885367 test_acc=68.6047 test_f1=0.6522
+dataset=bracs fold=NA seed=2 test_auc=0.887698 test_acc=70.9302 test_f1=0.7071
+dataset=bracs fold=NA seed=3 test_auc=0.834430 test_acc=63.9535 test_f1=0.5673
+dataset=bracs fold=NA seed=4 test_auc=0.892823 test_acc=74.4186 test_f1=0.7009
+dataset=bracs fold=NA seed=5 test_auc=0.859554 test_acc=69.7674 test_f1=0.6821

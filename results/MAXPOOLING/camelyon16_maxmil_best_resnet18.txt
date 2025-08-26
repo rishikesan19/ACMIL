@@ -1,0 +1,5 @@
+dataset=camelyon fold=1 seed=42 test_auc=0.766327 test_acc=79.0698 test_f1=0.7571
+dataset=camelyon fold=2 seed=42 test_auc=0.854337 test_acc=81.3953 test_f1=0.7826
+dataset=camelyon fold=3 seed=42 test_auc=0.496173 test_acc=58.9147 test_f1=0.3876
+dataset=camelyon fold=4 seed=42 test_auc=0.846939 test_acc=79.8450 test_f1=0.7804
+dataset=camelyon fold=5 seed=42 test_auc=0.830867 test_acc=82.1705 test_f1=0.7957
